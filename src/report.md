@@ -12,7 +12,7 @@
 ## Описание процесса тестирования
 
 *В процессе тестирования использовались следующие артефакты:*
-* [кусок кода по функциональности валидации номера банковской карты](https://github.com/bella291/-java_hw1.2/blob/9086eef7fed489eb059a3ca1e31b5cfc6fdde5b6/src/validation_code.md)
+* [код проверки валидации номера банковской карты](https://github.com/bella291/-java_hw1.2/blob/9086eef7fed489eb059a3ca1e31b5cfc6fdde5b6/src/validation_code.md)
 
 В качестве тестовых данных использовались валидные номера карт VISA, American Express, MasterCard, Diners Club - International, которые включают все известные распространные форматы длины номера карты (от 14 до 19 цифр).
 
